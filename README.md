@@ -7,7 +7,7 @@ UW has very **pretty cherry** blossoms!
 Reasons:
 
 * Cherry blossoms are pink!
-- **Cherry blossoms are pretty**
+- Cherry blossoms are pretty
 
 
 ```

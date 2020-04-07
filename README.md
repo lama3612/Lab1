@@ -1,5 +1,5 @@
 # Cherry Blossoms
-## Hi
+
 UW has a *very pretty* campus!
 
 UW has very **pretty cherry** blossoms!
